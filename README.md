@@ -18,8 +18,8 @@ I'm a passionate CSE student at NIT Silchar. Welcome to my GitHub profile!
 
 ## Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-hrishikesh.gogoi.32%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishikesh.gogoi.32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishikesh_Gogoi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-gogoi-60ab091a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-gogoi-60ab091a1/)
+[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishikesh.gogoi.32@gmail.com)
 
 ## GitHub Stats
 
