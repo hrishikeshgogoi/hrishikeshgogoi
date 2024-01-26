@@ -11,11 +11,11 @@ I'm a passionate CSE student at NIT Silchar. Welcome to my GitHub profile!
 
 ## Skills
 
-- **Programming Languages:** [C, C++, Python]
+- **Programming Languages:** C, C++, Python
 
 ## Connect with Me
 
-- 📫 Reach me via email at [hrishikesh.gogoi.32@gmail.com]
+- 📫 Reach me via email at hrishikesh.gogoi.32@gmail.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh-gogoi-60ab091a1/)
 
 ## GitHub Stats
