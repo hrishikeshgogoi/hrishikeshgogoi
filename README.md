@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Hrishikesh Gogoi! 👋
 
-<!--
-**hrishikeshgogoi/hrishikeshgogoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate CSE student at NIT Silchar. Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Javascript.
+- 💡 I enjoy working on data structures and algorithms.
+- 🎓 I have a degree in B.Tech(CSE) from GIMT, Guwahati.
+- 💬 Let's connect and chat about anything related to technology.
+
+## Skills
+
+- **Programming Languages:** [C, C++, Python]
+
+## Connect with Me
+
+- 📫 Reach me via email at [hrishikesh.gogoi.32@gmail.com]
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh-gogoi-60ab091a1/)
+
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshgogoi&show_icons=true&hide_title=true&hide=contribs,prs&count_private=true&theme=dark)](https://github.com/hrishikeshgogoi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshgogoi&layout=compact&theme=dark)](https://github.com/hrishikeshgogoi)
