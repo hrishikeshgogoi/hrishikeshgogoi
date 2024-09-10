@@ -4,7 +4,7 @@ I'm a passionate CSE student at NIT Silchar. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning Javascript.
+- 🌱 I'm currently pursuing a Master's degree in CSE at NIT Silchar.
 - 💡 I enjoy working on data structures and algorithms.
 - 🎓 I have a degree in B.Tech(ECE) from GIMT, Guwahati.
 - 💬 Let's connect and chat about anything related to technology.
