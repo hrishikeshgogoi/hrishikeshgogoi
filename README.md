@@ -1,12 +1,12 @@
 # Hello, I'm Hrishikesh Gogoi! 👋
 
-I'm a passionate CSE student at NIT Silchar. Welcome to my GitHub profile! 
+Welcome to my GitHub profile! 
 
 ## About Me
 
 - 🌱 I'm currently learning web development.
 - 💡 I enjoy working on data structures and algorithms.
-- 🎓 I have a degree in B.Tech(ECE) from GIMT, Guwahati.
+- 🎓 I have a M.Tech(CSE) degree from NIT Silchar.
 - 💬 Let's connect and chat about anything related to technology.
 
 ## Skills
